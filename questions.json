@@ -1,0 +1,202 @@
+[
+  {
+    "questionNo": "Q1.",
+    "question": "Where did Ella wander into one misty morning?",
+    "options": [
+      "The enchanted forest",
+      "The village square",
+      "The mountaintop"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q2.",
+    "question": "Who warned Ella about the enchanted forest?",
+    "options": [
+      "Her mother",
+      "Her grandmother",
+      "Her friend"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q3.",
+    "question": "What did Ella see when she walked along the mossy path?",
+    "options": [
+      "A large stone",
+      "A shimmering fairy",
+      "A dark cave"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q4.",
+    "question": "What did the fairy introduce herself as?",
+    "options": [
+      "Fina",
+      "Eldor",
+      "Elva"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q5.",
+    "question": "What did Ella see along her walk in the enchanted forest?",
+    "options": [
+      "Animals that were very quiet",
+      "Only flowers and bushes",
+      "Talking animals, whispering trees, and sparkling streams"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q6.",
+    "question": "What is Eldor?",
+    "options": [
+      "A wizard",
+      "A dragon",
+      "A fairy"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q7.",
+    "question": "Why did Eldor say only kind-hearted people could see the magic in the forest?",
+    "options": [
+      "To protect the forest",
+      "To keep the forest a secret",
+      "Because it was too dangerous"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q8.",
+    "question": "What task did Eldor give Ella?",
+    "options": [
+      "To explore the village",
+      "To protect the enchanted forest",
+      "To collect magical flowers"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q9.",
+    "question": "What did Eldor give Ella as a gift?",
+    "options": [
+      "A magical flower",
+      "A golden crown",
+      "An amulet shaped like a leaf"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q10.",
+    "question": "How did Ella feel as she walked back to the village?",
+    "options": [
+      "Sad",
+      "Angry",
+      "Happy and full of wonder"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q11.",
+    "question": "What made the enchanted forest magical?",
+    "options": [
+      "The trees",
+      "The animals and creatures",
+      "The air"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q12.",
+    "question": "Why did Ella promise to visit the forest again?",
+    "options": [
+      "Because she loved the magic and her new friends",
+      "Because she wanted to pick flowers",
+      "Because she needed to find food"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q13.",
+    "question": "What colour were the scales of the dragon, Eldor?",
+    "options": [
+      "Golden",
+      "Silver",
+      "Emerald-green"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q14.",
+    "question": "What did the forest have that made it seem enchanted?",
+    "options": [
+      "Talking animals and sparkling streams",
+      "Only trees and flowers",
+      "Many birds singing"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q15.",
+    "question": "Why was Ella so excited when she first saw the forest?",
+    "options": [
+      "She was scared",
+      "She had never seen anything magical before",
+      "She knew she would find food"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q16.",
+    "question": "What makes this story a fantasy?",
+    "options": [
+      "It is based on real events",
+      "It includes magical creatures and an enchanted forest",
+      "It is about an ordinary day in the village"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q17.",
+    "question": "Which of these is most likely a fantasy story?",
+    "options": [
+      "A story about a boy who finds a map of Australia",
+      "A story about a family moving to a new town",
+      "A story about a girl who finds a hidden world full of dragons"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q18.",
+    "question": "What would you expect to find in a fantasy story?",
+    "options": [
+      "A magician who can fly",
+      "A teacher who grades papers",
+      "A farmer growing crops"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q19.",
+    "question": "Which of these is not an example of fantasy?",
+    "options": [
+      "A unicorn that talks and flies",
+      "A princess who lives in a castle with a dragon",
+      "A kid learning how to play soccer"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q20.",
+    "question": "In a fantasy story, which of these characters would you most likely see?",
+    "options": [
+      "A doctor treating patients in a hospital",
+      "A fairy who grants wishes",
+      "A scientist conducting experiments"
+    ],
+    "correct": 1
+  }
+]
